@@ -29,7 +29,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+-Answer: The main benefits form client side routing is that routing between pages is usually quicker hand has smoother transitions between views. Essentially it all depends on what the product is or the client wants. In my opinion client side routing could be implemented on a few pages to switch views between for example: an item description and shipping information. 
+
 
 ## Project Set Up
 
